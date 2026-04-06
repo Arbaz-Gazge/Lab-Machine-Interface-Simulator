@@ -5,6 +5,10 @@ A simple simulator that generates test results, stores them in a MySQL database,
 ## App.py Preview
 ![Banner Screenshot](./banner_screenshot.png)
 
+## Simulator Preview
+![Simulator Screenshot](./simulator_screenshot.png)
+
+
 
 ## Features
 - **Database Schema**: Tables for Patients, Tests, Results, and Logs.
