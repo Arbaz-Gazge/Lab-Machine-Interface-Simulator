@@ -11,6 +11,10 @@ A simple simulator that generates test results, stores them in a MySQL database,
 ## API Documentation Preview (ReDoc)
 ![ReDoc Screenshot](./redoc_screenshot.png)
 
+## API Response Preview (JSON)
+![API Response Screenshot](./api_report_screenshot.png)
+
+
 
 
 
