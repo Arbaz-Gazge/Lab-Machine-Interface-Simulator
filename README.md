@@ -2,6 +2,10 @@
 
 A simple simulator that generates test results, stores them in a MySQL database, and provides REST APIs to fetch patient reports.
 
+## Banner Preview
+![Banner Screenshot](./banner_screenshot.png)
+
+
 ## Features
 - **Database Schema**: Tables for Patients, Tests, Results, and Logs.
 - **Machine Simulator**: Generates random test results every 10 seconds.
