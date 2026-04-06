@@ -14,6 +14,10 @@ A simple simulator that generates test results, stores them in a MySQL database,
 ## API Response Preview (JSON)
 ![API Response Screenshot](./api_report_screenshot.png)
 
+## Machine Logs API Preview
+![Machine Logs Screenshot](./logs_api_screenshot.png)
+
+
 
 
 
