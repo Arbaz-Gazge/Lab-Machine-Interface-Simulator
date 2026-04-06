@@ -2,7 +2,7 @@
 
 A simple simulator that generates test results, stores them in a MySQL database, and provides REST APIs to fetch patient reports.
 
-## Banner Preview
+## App.py Preview
 ![Banner Screenshot](./banner_screenshot.png)
 
 
