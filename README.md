@@ -8,6 +8,10 @@ A simple simulator that generates test results, stores them in a MySQL database,
 ## Simulator Preview
 ![Simulator Screenshot](./simulator_screenshot.png)
 
+## API Documentation Preview (ReDoc)
+![ReDoc Screenshot](./redoc_screenshot.png)
+
+
 
 
 ## Features
